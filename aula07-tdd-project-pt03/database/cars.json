@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c6a47d6d-1151-4aac-9199-c700b2ead0a3",
+    "name": "Corvette",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "f7bea4cf-3c41-442c-9c61-e2b0c4901cb2",
+    "name": "Durango",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "ee74f2d2-f9b8-47f2-9aa2-29987347eec6",
+    "name": "Challenger",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
